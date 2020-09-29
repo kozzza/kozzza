@@ -1,6 +1,6 @@
 ## Welcome To My GitHub
 ![Profile Badge](https://img.shields.io/badge/Profile-koza-63d8fa?logo=github&style=for-the-badge&link=https://github.com/kozzza)
-![Github stats](https://img.shields.io/github/followers/kozzza?color=63d8fa&label=GITHUB%20FOLLOWERS&logo=github&style=for-the-badge)
+![Github stats](https://img.shields.io/github/followers/kozzza?color=63d8fa&label=FOLLOWERS&logo=github&style=for-the-badge)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
